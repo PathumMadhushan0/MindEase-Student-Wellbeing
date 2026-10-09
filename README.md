@@ -1,5 +1,3 @@
-# MindEase-Student-Wellbeing
-A team-based student well-being website prototype built with Figma, HTML, and CSS.
 # MindEase — Student Well-being Website
 
 MindEase is a team-based frontend website prototype focused on student well-being, self-care, stress management, and relaxation.
